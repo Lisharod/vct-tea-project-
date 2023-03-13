@@ -95,7 +95,7 @@ if(isset($message)){
 
       <div class="content">
          <h3>coffee heaven</h3>
-         <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ut officia, accusantium mollitia laudantium dolorum dolore.</p>
+         <p>FOR ALL COFFEE LOVERS !!!!</p>
          <a href="#about" class="btn">about us</a>
       </div>
 
@@ -114,8 +114,8 @@ if(isset($message)){
    </div>
 
    <div class="content">
-      <h3>A cup of coffee can complete your day</h3>
-      <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Veniam suscipit sunt repellendus, dolorum recusandae placeat quae. Iste eaque aspernatur, animi deleniti voluptas, sunt molestias eveniet sint consectetur facere a ex.</p>
+      <h3>A cup of coffee can complete your day.</h3>
+      <p>Coffee is beverage prepared from roasted coffee beans.It provides many antioxidants to our diet. It provides many health benefits.</p>
       <a href="#menu" class="btn">our menu</a>
    </div>
 
@@ -137,25 +137,25 @@ if(isset($message)){
       <div class="box">
          <img src="images/icon-1.png" alt="">
          <h3>varieties of coffees</h3>
-         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Saepe, adipisci!</p>
+         <p>Can choose from wide variety of coffee drinks such as black,latte,cappuccino,americano,espresso .</p>
       </div>
 
       <div class="box">
          <img src="images/icon-2.png" alt="">
          <h3>coffee beans</h3>
-         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Saepe, adipisci!</p>
+         <p>There are mainly four types arabica,robusta,excelsa and liberica.</p>
       </div>
 
       <div class="box">
          <img src="images/icon-3.png" alt="">
          <h3>breakfast and sweets</h3>
-         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Saepe, adipisci!</p>
+         <p>To start your day on a sweet note with healthy breakfast.</p>
       </div>
 
       <div class="box">
          <img src="images/icon-4.png" alt="">
          <h3>read to go coffee</h3>
-         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Saepe, adipisci!</p>
+         <p>coffee for everyone</p>
       </div>
 
    </div>
